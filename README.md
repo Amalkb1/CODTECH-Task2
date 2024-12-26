@@ -1,5 +1,17 @@
 # CODTECH-Task2
 
+Author Information
+
+Name: AMAL K B
+
+Company: CODTECH IT SOLUTIONS
+
+ID: CT0806FQ
+
+Domain: Data Analysis
+
+Duration: December to January 2024
+
 ---
 
 # Linear Regression Project in Python - E-commerce Analysis
