@@ -10,6 +10,8 @@ ID: CT0806FQ
 
 Domain: Data Analysis
 
+Mentor: Sravani
+
 Duration: December to January 2024
 
 ---
